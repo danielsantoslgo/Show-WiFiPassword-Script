@@ -19,8 +19,8 @@ Puedes obtener el script de dos maneras:
 ### 1. Clonando el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/Show-WiFiPassword.git
-cd Show-WiFiPassword
+git clone https://github.com/tu-usuario/Show-WiFiPassword-Script.git
+cd Show-WiFiPassword-Script
 ```
 
 ### 2. Descargando el ZIP
@@ -37,7 +37,7 @@ cd Show-WiFiPassword
 2. Navega hasta la carpeta donde esté el script:
 
    ```powershell
-   cd C:\ruta\a\Show-WiFiPassword
+   cd C:\ruta\a\Show-WiFiPassword-Script
    ```
 
 3. Ejecuta el script:
