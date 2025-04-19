@@ -1,5 +1,5 @@
 # Este script lista SSID y contraseñas de Wi‑Fi, en inglés y español
-# Paolo Frigo, https://scriptinglibrary.com
+
 
 # 1. Obtengo salida de netsh
 $wifi = netsh.exe wlan show profiles 2>&1
